@@ -1,0 +1,103 @@
+{
+  "interviewTable": [
+    {
+      "id": 1,
+      "fecha": "17/05/2022",
+      "jornada": "am",
+      "convocatoria":"schools",
+      "aspirante":20,
+      "entrevistador":4,
+      "observador":6,
+      "salas":3,
+      "detalle":"ver mas detalles"
+
+    },
+    {
+      "id": 2,
+      "fecha": "17/05/2022",
+      "jornada": "am",
+      "convocatoria":"Programate",
+      "aspirante":20,
+      "entrevistador":4,
+      "observador":6,
+      "salas":3,
+      "detalle":"ver mas detalles"
+
+    },
+    {
+      "id": 3,
+      "fecha": "14/05/2022",
+      "jornada": "am",
+      "convocatoria":"Programate",
+      "aspirante":20,
+      "entrevistador":4,
+      "observador":6,
+      "salas":3,
+      "detalle":"ver mas detalles"
+
+    },
+    {
+      "id": 4,
+      "fecha": "14/05/2022",
+      "jornada": "pm",
+      "convocatoria":"programate",
+      "aspirante":20,
+      "entrevistador":4,
+      "observador":6,
+      "salas":3,
+      "detalle":"ver mas detalles"
+
+    },
+    {
+      "id": 5,
+      "fecha": "13/05/2022",
+      "jornada": "pm",
+      "convocatoria":"schools",
+      "aspirante":20,
+      "entrevistador":4,
+      "observador":6,
+      "salas":3,
+      "detalle":"ver mas detalles"
+
+    },
+    {
+      "id": 6,
+      "fecha": "13/05/2022",
+      "jornada": "pm",
+      "convocatoria":"schools",
+      "aspirante":20,
+      "entrevistador":4,
+      "observador":6,
+      "salas":3,
+      "detalle":"ver mas detalles"
+
+    },
+
+    {
+      "id": 7,
+      "fecha": "12/05/2022",
+      "jornada": "pm",
+      "convocatoria":"Academy",
+      "aspirante":20,
+      "entrevistador":4,
+      "observador":6,
+      "salas":3,
+      "detalle":"ver mas detalles"
+
+    },
+
+    {
+      "id": 8,
+      "fecha": "20/05/2022",
+      "jornada": "pm",
+      "convocatoria":"Academy",
+      "aspirante":20,
+      "entrevistador":4,
+      "observador":6,
+      "salas":3,
+      "detalle":"ver mas detalles"
+
+    }
+  ]
+  
+}
